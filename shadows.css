@@ -1,0 +1,35 @@
+
+:root {
+    /* Used to create a subtle skeuomorphic effect in components such as buttons and tabs.
+    
+    This can be removed or replaced with shadow-xs if you prefer a flat style. */
+    --shadowShadowsShadowXsSkeuomorphic: 0 1px 2px 0 rgba(16,24,40,0.05);  
+    /* Used to create a subtle skeuomorphic effect in components such as buttons and tabs.
+    
+    This can be removed or replaced with shadow-xs if you prefer a flat style. */
+    --shadowShadowsShadowXsSkeuomorphic2: inset 0 -2px 0 0 rgba(16,24,40,0.05);  
+    /* Used to create a subtle skeuomorphic effect in components such as buttons and tabs.
+    
+    This can be removed or replaced with shadow-xs if you prefer a flat style. */
+    --shadowShadowsShadowXsSkeuomorphic3: inset 0 0 0 1px rgba(16,24,40,0.18);  
+    /* Used for focus states in components that also require a shadow and a subtle skeuomorphic effect. For example, buttons and tabs.
+    
+    This can be replaced with focus-ring-shadow-xs if you prefer a flat style. */
+    --shadowFocusRingsFocusRingShadowXsSkeuomorphic: 0 0 0 4px rgba(158,119,237,1);  
+    /* Used for focus states in components that also require a shadow and a subtle skeuomorphic effect. For example, buttons and tabs.
+    
+    This can be replaced with focus-ring-shadow-xs if you prefer a flat style. */
+    --shadowFocusRingsFocusRingShadowXsSkeuomorphic2: 0 0 0 2px rgba(255,255,255,1);  
+    /* Used for focus states in components that also require a shadow and a subtle skeuomorphic effect. For example, buttons and tabs.
+    
+    This can be replaced with focus-ring-shadow-xs if you prefer a flat style. */
+    --shadowFocusRingsFocusRingShadowXsSkeuomorphic3: 0 1px 2px 0 rgba(16,24,40,0.05);  
+    /* Used for focus states in components that also require a shadow and a subtle skeuomorphic effect. For example, buttons and tabs.
+    
+    This can be replaced with focus-ring-shadow-xs if you prefer a flat style. */
+    --shadowFocusRingsFocusRingShadowXsSkeuomorphic4: inset 0 -2px 0 0 rgba(16,24,40,0.05);  
+    /* Used for focus states in components that also require a shadow and a subtle skeuomorphic effect. For example, buttons and tabs.
+    
+    This can be replaced with focus-ring-shadow-xs if you prefer a flat style. */
+    --shadowFocusRingsFocusRingShadowXsSkeuomorphic5: inset 0 0 0 1px rgba(16,24,40,0.18);  
+}

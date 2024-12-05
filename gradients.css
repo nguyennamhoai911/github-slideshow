@@ -1,0 +1,10 @@
+
+:root {
+    /* Used to create a subtle skeuemorphic effect in components such as primary buttons. This can be removed or replaced with a 1px stroke if you prefer a flat style. */
+    --gradientGradientSkeuemorphicGradientBorder: linear-gradient(
+          180deg,
+          #ffffff1f 0%,   
+          #ffffff00 100%  
+        )
+        ;    
+}
